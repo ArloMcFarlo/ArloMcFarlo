@@ -1,4 +1,3 @@
-Hi, I’m @ArloMcFarlo,
-I'm a game devloper and musican
+# @ArloMcFarlo
 
-goodbye!
+making dumb things since 2022
